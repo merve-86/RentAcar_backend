@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "64c5ed12345a123456789016",
+    "username": "admin",
+    "password": "aA*12345",
+    "email": "admin@example.com",
+    "firstName": "admin",
+    "lastName": "admin",
+    "isActive": true,
+    "isStaff": false,
+    "isAdmin": true
+  },  
+  {
+    "_id": "64c5ed12345a123456789030",
+    "username": "staff",
+    "password": "aA*12345",
+    "email": "staff@example.com",
+    "firstName": "staff",
+    "lastName": "staff",
+    "isActive": true,
+    "isStaff": true,
+    "isAdmin": false
+  },
+  {
+    "_id": "64c5ed12345a123456789017",
+    "username": "test1",
+    "password": "aA*12345",
+    "email": "test1@example.com",
+    "firstName": "test1",
+    "lastName": "test1",
+    "isActive": true,
+    "isStaff": false,
+    "isAdmin": false
+  },
+  {
+    "_id": "64c5ed12345a123456789018",
+    "username": "test2",
+    "password": "aA*12345",
+    "email": "test2@example.com",
+    "firstName": "test2",
+    "lastName": "test2",
+    "isActive": true,
+    "isStaff": false,
+    "isAdmin": false
+  },
+  {
+    "_id": "64c5ed12345a123456789019",
+    "username": "test3",
+    "password": "aA*12345",
+    "email": "test3@example.com",
+    "firstName": "test3",
+    "lastName": "test3",
+    "isActive": true,
+    "isStaff": false,
+    "isAdmin": false
+  }
+]
